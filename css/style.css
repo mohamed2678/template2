@@ -1326,7 +1326,6 @@ transition: var(--main-transition);
   gap: 20px;
 }
 .statistics .box{
-  /* border: 1px solid black; */
   background-color: white;
   padding: 30px 15px;
   text-align: center;
@@ -1357,8 +1356,6 @@ transition: var(--main-transition);
 }
 .statistics .box:hover{
   opacity: 1;
-  border-top: 1px solid var(--main-color);
-  border-bottom: 1px solid var(--main-color);
 }
 .statistics .box .number{
   display: block;
