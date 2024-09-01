@@ -988,7 +988,7 @@ transition: var(--main-transition);
   border: 1px solid #d4d4d4;
   border-radius: 6px;
   text-align: center;
-  width: 100px;
+  width: 86px;
   transition: var(--main-transition);
 }
 .events .info .time .unit span{
